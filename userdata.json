@@ -1,5 +1,11 @@
 [
     {
+        "device_id": "2f7365bf522595ff",
+        "key": "2f7365bf522595ff",
+        "expirydate": "03-01-2030",
+        "Allowoffline": true
+    },
+    {
         "device_id": "tempeldisini",
         "key": "tempeldisini",
         "expirydate": "03-01-2030",
