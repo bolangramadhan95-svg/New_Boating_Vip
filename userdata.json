@@ -1,5 +1,11 @@
 [
     {
+        "device_id": "tempeldisini",
+        "key": "tempeldisini",
+        "expirydate": "03-01-2030",
+        "Allowoffline": true
+    },
+    {
         "device_id": "072d02083602fabe",
         "key": "072d02083602fabe",
         "expirydate": "03-01-2030",
