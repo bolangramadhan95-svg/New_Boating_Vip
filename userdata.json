@@ -1,5 +1,11 @@
 [
     {
+        "device_id": "Proses 1 menit",
+        "key": "Proses 1 menit",
+        "expirydate": "03-01-2030",
+        "Allowoffline": true
+    },
+    {
         "device_id": "2cf1bf9cff5fd9e6",
         "key": "2cf1bf9cff5fd9e6",
         "expirydate": "03-01-2030",
